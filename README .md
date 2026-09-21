@@ -27,9 +27,8 @@ The project was developed by first collecting all the required electronic compon
 
 ### **5\. WORKING PRINCIPLE**
 
-The Light-Based Security Alarm System works on the principle of light-dependent resistance. The LDR is a light-sensitive resistor whose resistance changes according to the intensity of incident light. Under bright-light conditions, the resistance of the LDR decreases, causing a change in the voltage of the sensing circuit. This change is detected by the switching circuit, and the buzzer remains OFF in the completed prototype. Under dark conditions, the amount of light falling on the LDR decreases, causing its resistance to increase. This produces a change in the sensor circuit's output voltage, which activates the switching circuit. As a result, the buzzer turns ON and produces an audible alert. The LED provides a visual indication of the circuit's operating condition. The 9V battery supplies the required electrical energy, while the cardboard structure supports the components and improves the portability of the prototype. 
-
-[WORKING][WORKING.JPG]
+The Light-Based Security Alarm System works on the principle of light-dependent resistance. The LDR is a light-sensitive resistor whose resistance changes according to the intensity of incident light. Under bright-light conditions, the resistance of the LDR decreases, causing a change in the voltage of the sensing circuit. This change is detected by the switching circuit, and the buzzer remains OFF in the completed prototype. Under dark conditions, the amount of light falling on the LDR decreases, causing its resistance to increase. This produces a change in the sensor circuit's output voltage, which activates the switching circuit. As a result, the buzzer turns ON and produces an audible alert. The LED provides a visual indication of the circuit's operating condition. The 9V battery supplies the required electrical energy, while the cardboard structure supports the components and improves the portability 
+![Working Principle](working.jpg)
 
 ### **6\. APPLICATIONS**
 
@@ -44,6 +43,6 @@ The project is simple, cost-effective, and easy to assemble using a breadboard. 
 The Light-Based Security Alarm System was successfully developed using basic electronic components such as an LDR, LED, buzzer, resistors, and a 9V battery. The prototype demonstrates how changes in light intensity can be converted into an electrical signal to control an alarm. The LDR detects changes in surrounding light, while the switching circuit controls the buzzer according to the detected condition. The cardboard structure provides a stable and portable platform for the prototype. This project helped us understand the practical applications of light sensors, electronic switching, and basic circuit assembly. The system can be further improved by adding adjustable sensitivity, a rechargeable power supply, and advanced sensors for more reliable security monitoring.
 
 **RESULT :
+![Result Image](RESULT.JPG)
 
-[RESULT][RESULT.JPG]
 
