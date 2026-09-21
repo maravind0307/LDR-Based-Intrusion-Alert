@@ -28,7 +28,7 @@ The project was developed by first collecting all the required electronic compon
 ### **5\. WORKING PRINCIPLE**
 
 The Light-Based Security Alarm System works on the principle of light-dependent resistance. The LDR is a light-sensitive resistor whose resistance changes according to the intensity of incident light. Under bright-light conditions, the resistance of the LDR decreases, causing a change in the voltage of the sensing circuit. This change is detected by the switching circuit, and the buzzer remains OFF in the completed prototype. Under dark conditions, the amount of light falling on the LDR decreases, causing its resistance to increase. This produces a change in the sensor circuit's output voltage, which activates the switching circuit. As a result, the buzzer turns ON and produces an audible alert. The LED provides a visual indication of the circuit's operating condition. The 9V battery supplies the required electrical energy, while the cardboard structure supports the components and improves the portability 
-![Working Principle](WORKING.Jpg)
+![Working Principle](WORKING.jpg)
 
 ### **6\. APPLICATIONS**
 
